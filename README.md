@@ -1,9 +1,9 @@
-## run_analysis.R explanations
+# run_analysis.R explanations
 
-# required before running code
+## required before running code
 * install package 'reshape2'
 
-#Code description
+##Code description
 
 My sequence was the following:
 * load the training and test tables
